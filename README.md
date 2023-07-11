@@ -32,4 +32,4 @@
       git clone https://github.com/Error567887/debzero_bash && cd debzero_bash && chmod +x debzero_bash.sh && ./debzero_bash.sh
 
 Если хотите можете запустить от root (Администратора если вы перешли с windows 95,98,me,2000,xp,vista,7,10,11 может 12, хотя 
-самая популярная на нынешнее время это windows 3,1 и mc-DOS
+самая популярная на нынешнее время это windows 3,1 и mc-DOS)
